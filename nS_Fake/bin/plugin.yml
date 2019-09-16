@@ -1,0 +1,9 @@
+name: nS_Fakes
+version: 1.0.0
+main: kun.nicko.fake.AutoNick
+depend: [nAPI-Storm]
+commands:
+    unnick:
+        usage: /unnick
+    nicklist:
+        usage: /nicklist
